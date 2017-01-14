@@ -1,0 +1,6 @@
+{
+  "name": "Sentiment",
+  "tagline": "",
+  "body": "# Sentiment\r\n\r\n## Reference：\r\n\r\n- [SentiWordNet](http://sentiwordnet.isti.cnr.it/)\r\n- [Opinion Mining, Sentiment Analysis, and Opinion Spam Detection](http://www.cs.uic.edu/~liub/FBS/sentiment-analysis.html)\r\n- [NRC Emotion Lexicon](http://saifmohammad.com/Lexicons/NRC-Emotion-Lexicon-v0.92.zip)\r\n- [Visualizing Twitter Sentiment](https://www.csc.ncsu.edu/faculty/healey/tweet_viz/)\r\n- [StormTweetsSentimentD3Viz](https://github.com/P7h/StormTweetsSentimentD3Viz)\r\n- [OpinionFinder](http://mpqa.cs.pitt.edu/opinionfinder/)\r\n\r\n## Front:\r\n\r\n- [Smile Lab Webpage](https://github.com/Keposmile/SMILE-Lab-Webpage)(Testing)\r\n- [News Leak](https://github.com/tudarmstadt-lt/newsleak)(Failed)",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
