@@ -853,7 +853,7 @@ body .ui-tooltip {
 }
 .ui-widget-header {
 	border: 1px solid #4297d7;
-	background: #5c9ccc url("images/ui-bg_gloss-wave_55_5c9ccc_500x100.png") 50% 50% repeat-x;
+	background: #4fc08d ;
 	color: #ffffff;
 	font-weight: bold;
 }
@@ -874,7 +874,7 @@ body .ui-tooltip {
 .ui-state-default a,
 .ui-state-default a:link,
 .ui-state-default a:visited {
-	color: #2e6e9e;
+	color: #4fc08d;
 	text-decoration: none;
 }
 .ui-state-hover,
@@ -886,7 +886,7 @@ body .ui-tooltip {
 	border: 1px solid #79b7e7;
 	background: #d0e5f5 url("images/ui-bg_glass_75_d0e5f5_1x400.png") 50% 50% repeat-x;
 	font-weight: bold;
-	color: #1d5987;
+	color: #4fc08d;
 }
 .ui-state-hover a,
 .ui-state-hover a:hover,

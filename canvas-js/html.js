@@ -25,7 +25,7 @@ $(document).ready( function() {
 //  NB, this also "initializes" .ui-state-default, which is needed
 //  later in this script (so do this step first)
 
-  $("#query-btn").button( { label: "Query" } );
+  $("#query-btn").button( { label: "查询" } );
   $("#query-btn").click( function() {
     var  resp;				// Facebook authorization response
 
