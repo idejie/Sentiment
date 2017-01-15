@@ -849,13 +849,13 @@ function retrieve_page_v_1_1()
   req = block_sz;			// Set pages in block
   req_comp = 0;
 
-  // url = PHP_URL() + "recent.php?callback=?";
-  url =  term;
-  // url = url + "&pg=" + block_sz;
+  url = PHP_URL() + "recent.php?callback=?";
+  url = url + "&q=" + term;
+  url = url + "&pg=" + block_sz;
 
-  // if ( max_id != -1 ) {
-  //   url = url + "&max_id=" + max_id;
-  // }
+  if ( max_id != -1 ) {
+    url = url + "&max_id=" + max_id;
+  }
 
   $.ajax( {				// Post query to PHP server
     url: url,
