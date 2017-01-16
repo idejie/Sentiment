@@ -699,8 +699,8 @@ function query_twitter_v_1_1( term, pg_tot )
   }
 
   query_dlg().dialog( "open" );		// Init, show progress dialog
-  query_dlg_title( "Query Tweets" );
-  query_dlg_msg( "Loading tweets from Twitter..." );
+  query_dlg_title( "查询中" );
+  query_dlg_msg( "正在生成结果，请稍候..." );
 
   $( "#prog-bar" ).progressbar( "value", 0 );
 
